@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Coins",
+    "category": "Currencies",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "myCurrencies",
+      "\\0",
+      "\\1"
+    ],
+    "widget": {
+      "type": "int",
+      "stepSize": 100,
+      "minValue": 0,
+      "maxValue": 99999
+    }
+  },
+  {
+    "name": "Orbs",
+    "category": "Currencies",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "myCurrencies",
+      "\\1",
+      "\\1"
+    ],
+    "widget": {
+      "type": "int",
+      "stepSize": 20,
+      "minValue": 0,
+      "maxValue": 2000
+    }
+  }
+]

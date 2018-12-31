@@ -1,0 +1,1540 @@
+[
+  {
+    "name": "3D Models - Mario",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\0",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Rabbid Luigi",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\1",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Rabbid Peach",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\2",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Garden Ziggy",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\3",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+
+  {
+    "name": "3D Models - Sunflower",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\4",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Toadette",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\5",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Toad Friends",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\6",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - White Rabbids",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\7",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Garden Hopper",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\8",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Pirabbid Plant",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\9",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Luigi",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\10",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Garden Smasher",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\11",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Rabbid Kong",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\12",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Sherbet Ziggy",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\13",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Sherbet Hopper",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\14",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Sherbet Smasher",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\15",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Sherbet Supporter",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\16",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Blizzy",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\17",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Sandy",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\18",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Rabbid Mario",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\19",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Sherbet Buckler",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\20",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Peach",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\21",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Icicle Golem",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\22",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spooky Ziggy",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\23",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+
+  {
+    "name": "3D Models - Spooky Supporter",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\24",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spooky Peek-a-Boo",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\25",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spooky Hopper",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\26",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spooky Smasher",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\27",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Calavera",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\28",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Rabbid Yoshi",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\29",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spooky Valkyrie",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\30",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spooky Buckler",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\31",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Phantom",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\32",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Ziggy",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\33",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Hopper",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\34",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Smasher",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\35",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Valkyrie",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\36",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Buckler",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\37",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Supporter",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\38",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Peek-a-Boo",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\39",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Mecha Jr.",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\40",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Yoshi",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\41",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Bwario",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\42",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Bwaluigi",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\43",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Lava Queen",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\44",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - MegaDragonBowser",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\45",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - MegaBug",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\46",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  },
+  {
+    "name": "3D Models - Spawny",
+    "category": "Museum",
+    "intArgs": [
+      0
+    ],
+    "strArgs": [
+      "myElements",
+      "\\11",
+      "myData",
+      "RewardModel",
+      "\\47",
+      "myStatus"
+    ],
+    "widget": {
+      "type": "list",
+      "listItemNames": [
+        "Locked",
+        "Unlocked at world 1",
+        "Unlocked at world 2",
+        "Unlocked at world 3",
+        "Unlocked at world 4"
+      ],
+      "listItemValues": [
+        0.000000,
+        1.000000,
+        2.000000,
+        3.000000,
+        4.000000
+      ]
+    }
+  }
+]
