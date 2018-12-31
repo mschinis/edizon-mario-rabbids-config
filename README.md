@@ -30,6 +30,6 @@ To request new options, please file a github issue with a detailed description a
 
 **Usage**
 1. `git clone https://github.com/mschinis/edizon-mario-rabbids-config`
-2. `npm start`
+2. `npm run build`
 3. Copy the generated config (`010067300059A000.json`) in your switch's `/EdiZon/editor` folder.
 4. 🎉
