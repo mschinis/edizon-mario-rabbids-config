@@ -1,9 +1,10 @@
 const { constructEdiZonConfig, storeEdiZonConfig } = require('./src');
+const { greenLog, redLog } = require('./src/_utils/logger');
 
 try {
     const ediZonConfig = constructEdiZonConfig();
     storeEdiZonConfig(ediZonConfig);
-    console.log('Config created successfully!');
+    greenLog('Config created successfully!');
 } catch (err) {
-    console.error(err);
+    redLog(err.message);
 }
