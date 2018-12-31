@@ -4,9 +4,16 @@ const SecondaryWeapon = require('./factories/secondary');
 
 // Characters to create the weapons for
 const Mario = require('./characters/mario');
+const Luigi = require('./characters/luigi');
+const RabbidsPeach = require('./characters/rabbids_peach');
+const RabbidsLuigi = require('./characters/rabbids_luigi');
 
+// Order to be shown in the EdiZon app
 const characters = [
-    Mario
+    Mario,
+    RabbidsPeach,
+    RabbidsLuigi,
+    Luigi
 ];
 
 function assembleCharacterWeapons(character) {
