@@ -37,11 +37,13 @@ function constructEdiZonConfig() {
     return base;
 }
 
-function exec() {
-    const configFile = constructEdiZonConfig();
+function storeEdiZonConfig(edizonConfig) {
     const outputFile = path.resolve(__dirname, '../', `${config.gameID}.json`);
-    fs.writeFileSync(outputFile, JSON.stringify(configFile));
+    return fs.writeFileSync(outputFile, JSON.stringify(edizonConfig));
 }
 
-module.exports = exec;
+module.exports = {
+    constructEdiZonConfig,
+    storeEdiZonConfig
+};
 
