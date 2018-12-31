@@ -1,7 +1,7 @@
 # EdiZon Mario + Rabbids config
 
-An EdiZon config generator for "Mario + Rabbids: Kingdom Battle" on Nintendo Switch.
-The aim of this project is to provide a structure to a fairly large config file. 
+An [EdiZon](https://github.com/WerWolv98/EdiZon) config generator for "Mario + Rabbids: Kingdom Battle" on Nintendo Switch.
+The aim of this project is to provide a structure to a fairly large config file and make maintenance of the cheat config file easy.
 
 **It will remain as the source code ONLY for the final generated config file.**
 
