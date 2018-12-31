@@ -23,9 +23,13 @@ The aim of this project is to provide a structure to a fairly large config file 
 
 To request new options, please file a github issue with a detailed description and I will look into adding support.
 
-## Build
+## Getting started
 
+**Requirements**
+1. Node v8+ 
+
+**Usage**
 1. `git clone https://github.com/mschinis/edizon-mario-rabbids-config`
-2. `node index.js` (Requires Node v8+)
+2. `npm start`
 3. Copy the generated config (`010067300059A000.json`) in your switch's `/EdiZon/editor` folder.
 4. 🎉
