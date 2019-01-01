@@ -28,8 +28,20 @@ To request new options, please file a github issue with a detailed description a
 **Requirements**
 1. Node v8+ 
 
-**Usage**
+**Building**
 1. `git clone https://github.com/mschinis/edizon-mario-rabbids-config`
-2. `npm run build`
-3. Copy the generated config (`010067300059A000.json`) in your switch's `/EdiZon/editor` folder.
-4. 🎉
+1. `npm run build`
+2. Copy the generated config (`010067300059A000.json`) in your switch's `/EdiZon/editor` folder.
+3. 🎉
+
+**Deploying**
+1. Setup _(Only needed once)_
+    - `npm install`
+    - Copy `.env.example` to `.env`
+    - Update `.env` environment variables
+1. `npm run deploy`
+2. 🎉
+
+**Building and deploying**
+1. `npm run build:deploy`
+2. 🎉
