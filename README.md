@@ -13,9 +13,9 @@ The aim of this project is to provide a structure to a fairly large config file 
 - All museum items
 - Weapons
   - Mario
-  - Luigi (Coming soon)
+  - Rabbids Peach
   - Rabbids Luigi (Coming soon)
-  - Rabbids Peach (Coming soon)
+  - Luigi (Coming soon)
   - Rabbids Mario (Coming soon)
   - ...
 
