@@ -1,6 +1,6 @@
 function PrimaryWeapon(characterName, weapon, index, overrides = {}) {
     const base = {
-        name: `${index+1}. Secondary Weapon - ${weapon.index}`,
+        name: `${index+1}. Secondary Weapon - ${weapon.name}`,
         category: characterName,
         intArgs: [
             0
