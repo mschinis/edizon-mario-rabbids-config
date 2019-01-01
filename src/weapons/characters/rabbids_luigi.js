@@ -9,19 +9,21 @@ module.exports = {
         { name: 'Turbine',              index: 2  },
         { name: `Life's A Beech`,       index: 3  },
         { name: 'Sugar Rush',           index: 4  },
-        { name: 'Exoskeleton',          index: 5  },
-        { name: 'Crosshair Nightmare',  index: 6  },
-        { name: 'Shining Dawn',         index: 7  },
-        { name: 'Blastberry Swirl',     index: 8  },
-        { name: `Butcher's Block`,      index: 9  },
-        { name: 'Tesla Circle',         index: 10 },
-        { name: 'Crosshead Orb',        index: 11 },
-        { name: 'Circle of Strife',     index: 12 },
-        { name: 'GemCutter',            index: 13 },
-        { name: 'Marble Marauder',      index: 14 },
-        { name: 'Cactus Fracas',        index: 15 },
-        { name: 'Gag Me with a Spoon',  index: 16 },
-        { name: 'Round Shield Shocker', index: 17 }
+        // Weapon at index 5 hidden from menu
+        { name: 'Exoskeleton',          index: 6  },
+        { name: 'Crosshair Nightmare',  index: 7  },
+        { name: 'Shining Dawn',         index: 8  },
+        { name: 'Blastberry Swirl',     index: 9  },
+        { name: `Butcher's Block`,      index: 10 },
+        { name: 'Tesla Circle',         index: 11 },
+        { name: 'Crosshead Orb',        index: 12 },
+        { name: 'Circle of Strife',     index: 13 },
+        { name: 'GemCutter',            index: 14 },
+        // Weapon at index 15 hidden from menu
+        { name: 'Marble Marauder',      index: 16 },
+        { name: 'Cactus Fracas',        index: 17 },
+        { name: 'Gag Me with a Spoon',  index: 18 },
+        { name: 'Round Shield Shocker', index: 19 }
     ],
     secondary: [
         { name: 'Pipe Dream',       index: 0  },
@@ -35,11 +37,13 @@ module.exports = {
         { name: 'Big Spike',        index: 8  },
         { name: 'Sky Raider',       index: 9  },
         { name: 'Big Red',          index: 10 },
-        { name: 'Might of the Kite',index: 11 },
-        { name: 'World Cannon',     index: 12 },
-        { name: 'Golden Rocket',    index: 13 },
-        { name: 'Agro Torpedo',     index: 14 },
-        { name: 'Jade Jaguar',      index: 15 },
-        { name: 'Righteous Rocket', index: 16 }
+        // Weapon at index 11 hidden from menu
+        { name: 'Might of the Kite',index: 12 },
+        { name: 'World Cannon',     index: 13 },
+        { name: 'Golden Rocket',    index: 14 },
+        // Weapon at index 15 hidden from menu
+        { name: 'Agro Torpedo',     index: 16 },
+        { name: 'Jade Jaguar',      index: 17 },
+        { name: 'Righteous Rocket', index: 18 }
     ]
 };
