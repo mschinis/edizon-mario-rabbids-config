@@ -14,8 +14,8 @@ The aim of this project is to provide a structure to a fairly large config file 
 - Weapons
   - Mario
   - Rabbids Peach
-  - Rabbids Luigi (Coming soon)
-  - Luigi (Coming soon)
+  - Rabbids Luigi
+  - Luigi
   - Rabbids Mario (Coming soon)
   - ...
 
